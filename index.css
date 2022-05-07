@@ -83,19 +83,29 @@ body{
     font-size: 25px;
     color: red;
 }
+.search{
+    width: 240px;
+    float: right;
+    margin-left: 1px;
+    background-color: rgb(228, 146, 146);
+    
+    
+    
+}
+
 .your-address{
     border: 1px solid indianred;
     color: indianred;
     padding: 5px 10px;
     border-radius: 5px;
-    width: 150px;
+    width: 250px;
     overflow: hidden;
     white-space: nowrap;
     text-overflow: ellipsis;
     cursor: pointer;
 }
 .add-box i{
-    font-size: 20px;
+    font-size: 15px;
 }
 
 #header select{
